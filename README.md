@@ -1,4 +1,4 @@
-### Herkese Merhaba. Ben Harun Doğdu. 23 Yaşındayım Öğrenciyim ve Ankaradan'da Yaşıyorum. 👋
+### Herkese Merhaba. Ben Harun Doğdu. 23 Yaşındayım Öğrenciyim ve Ankara'da Yaşıyorum. 👋
 
 - Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 3.Sınıf Öğrencisiyim.
 - Okul ve öğrenmemi eş zamanlı bir iki tık da okuldan üstün götürmeye çalışıyorum. 
