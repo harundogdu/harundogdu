@@ -17,7 +17,7 @@ Kullandığım Editör : ![VS Code](http://img.shields.io/badge/-VS%20Code-007AC
 
 ### Kullandığım Diller
 
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=10&hide=html,smarty,javascript)
+[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=10)
 
 :sparkling_heart: Bu arada aklınıza gelen hergangi bir şeyi sormaktan çekinmeyin. İletişim için aşağıya linkler bırakıyorum. Mutlu ve Sağlıcakla Kalın !
 
