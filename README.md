@@ -25,4 +25,4 @@ Bilgiye Sahip Olarak Doğmuş Birisi Değilim, Öğrenmeyi Seviyorum ve Öğretm
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/harundogdu/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@harundogdu)](https://medium.com/@harundogdu) [![GitHub Follow Badge](https://img.shields.io/github/followers/harundogdu?label=follow&style=social)](https://github.com/harundogdu)
 
 #### Son Olarak Kişisel Web Sitem Yakın Zamanda Daha da çok Aktif Olacağım.
-📫 ![Kişisel Web Sitem](https://harundogdu.com.tr/)
+📫 [Kişisel Web Sitem](https://harundogdu.com.tr/)
