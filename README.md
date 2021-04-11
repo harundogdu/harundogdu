@@ -18,6 +18,12 @@ Kullandığım Editör : ![VS Code](http://img.shields.io/badge/-VS%20Code-007AC
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harunndogdu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=harunndogdu) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/harundogdu/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@harundogdu)](https://medium.com/@harundogdu) [![GitHub Follow Badge](https://img.shields.io/github/followers/harundogdu?label=follow&style=social)](https://github.com/harundogdu) 
 
+## Github Stats
+
+![Github istatistiklerim](https://github-readme-stats.vercel.app/api?username=harundogdu&show_icons=true&theme=radical)
+
 #### Son Olarak Kişisel Web Sitem Yakın Zamanda Daha da çok Aktif Olacağım.
 📫 [Kişisel Web Sitem](https://harundogdu.com.tr/)
+
+
 
