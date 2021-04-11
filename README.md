@@ -4,7 +4,6 @@
 - Okul ve öğrenmemi eş zamanlı bir iki tık da okuldan üstün götürmeye çalışıyorum. 
 - Web ve Mobil Programlama ile uğraşıyor ve kendimi geliştiriyorum.
 - Bu sıralar Swift ve Python üzerine bir şeyler deniyorum.😄
-- Bilgiye Sahip Olarak Doğmuş Birisi Değilim, Öğrenmeyi Seviyorum ve Öğretmeye Çalışıyorum. Denemeyi Yapmayı ve Başarmayı Çok İstiyor ve Seviyorum.
 
 Freelancer olarak yaptığım işlerden para kazanıyorum ancak aşağıdaki diller ile de ilgiliyim. Hobi amaçlı olarak okuyor, oyun oynuyor ve geziyorum. Yaptığım/Yapacağım işleri burada paylaşmayı düşünüyorum.
 
