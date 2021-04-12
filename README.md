@@ -8,12 +8,12 @@
                                                                                                        
 <br/>
 
-#### About me
+### About me
 - I am a Software Engineering student at Karadeniz Technical University.
 - I am dealing with Web and Mobile Programming and improving myself.
 - These days I'm trying something on Swift and Python.😄
 
-I am currently making money from my work as a Freelancer. I read, play and travel for hobby purposes. I am thinking of sharing the works I have / will do here                                                                                                       
+<p> I am currently making money from my work as a Freelancer. I read, play and travel for hobby purposes. I am thinking of sharing the works I have / will do here    </p>                                                                                                    
 
 ###  &nbsp;GitHub Stats
 
