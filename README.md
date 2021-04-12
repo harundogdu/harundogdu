@@ -6,16 +6,7 @@
 
 <img src="https://github.com/harundogdu/harundogdu/blob/main/img/programming.gif?raw=true" width="400px"/>
                                                                                                        
-<br/>
-
-### About me
-- I am a Software Engineering student at Karadeniz Technical University.
-- I am dealing with Web and Mobile Programming and improving myself.
-- These days I'm trying something on Swift and Python.😄
-
-I am currently making money from my work as a Freelancer. <br/>
-I read, play and travel for hobby purposes. <br/>
-I am thinking of sharing the works I have / will do here    <br/>                                                                                               
+<br/>                                                                            
 
 ###  &nbsp;GitHub Stats
 
@@ -26,7 +17,7 @@ I am thinking of sharing the works I have / will do here    <br/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me 🤝
 
 <a href="https://medium.com/@harundogdu" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@harundogdu">
