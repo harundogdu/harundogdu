@@ -1,28 +1,31 @@
-### Herkese Merhaba. Ben Harun Doğdu. 23 Yaşındayım , Öğrenciyim ve Ankara'da Yaşıyorum. 👋
+<div align="center">
 
-- Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 3.Sınıf Öğrencisiyim.
-- Okul ve öğrenmemi eş zamanlı bir iki tık da okuldan üstün götürmeye çalışıyorum. 
-- Web ve Mobil Programlama ile uğraşıyor ve kendimi geliştiriyorum.
-- Bu sıralar Swift ve Python üzerine bir şeyler deniyorum.😄
-- Bilgiye Sahip Olarak Doğmuş Birisi Değilim, Öğrenmeyi Seviyorum ve Öğretmeye Çalışıyorum. Denemeyi Yapmayı ve Başarmayı Çok İstiyor ve Seviyorum.
+## Hello! I'm Harun. 👋
 
-Freelancer olarak yaptığım işlerden para kazanıyorum ancak aşağıdaki diller ile de ilgiliyim. Hobi amaçlı olarak okuyor, oyun oynuyor ve geziyorum. Yaptığım/Yapacağım işleri burada paylaşmayı düşünüyorum.
+<br/>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
-![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
+<br/>
 
-Kullandığım Editör : ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) 
+### ⚙️ &nbsp;GitHub Analytics
 
-### Kullandığım Diller
+<p align="center">
+<a href="https://github.com/harundogdu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harundogdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=10)
+### 🤝🏻 &nbsp;Connect with Me
 
-:sparkling_heart: Bu arada aklınıza gelen hergangi bir şeyi sormaktan çekinmeyin. İletişim için aşağıya linkler bırakıyorum. Mutlu ve Sağlıcakla Kalın !
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/harunndogdu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=harunndogdu) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/harundogdu/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@harundogdu)](https://medium.com/@harundogdu) [![GitHub Follow Badge](https://img.shields.io/github/followers/harundogdu?label=follow&style=social)](https://github.com/harundogdu) 
-
-#### Son Olarak Kişisel Web Sitem Yakın Zamanda Daha da çok Aktif Olacağım.
-📫 [Kişisel Web Sitem](https://harundogdu.com.tr/)
-
+<a href="https://medium.com/@harundogdu" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@harundogdu">
+</a>
+<a href="https://www.linkedin.com/in/harundogdu" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/harundogdu">
+</a>
+<a href="https://twitter.com/harundogdu" target="_blank">
+    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/harundogdu">
+</a>
+<a href="mailto:harundogdu06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:harundogdu06@gmail.com">
+</a>
