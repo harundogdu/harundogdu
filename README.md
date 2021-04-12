@@ -3,11 +3,19 @@
 ## Hello! I'm Harun. 👋
 
 <br/>
-<img src="https://github.com/harundogdu/harundogdu/blob/main/img/programming.gif?raw=true width="400px"/>
 
+<img src="https://github.com/harundogdu/harundogdu/blob/main/img/programming.gif?raw=true" width="400px"/>
+                                                                                                       
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+#### About me
+- I am a Software Engineering student at Karadeniz Technical University.
+- I am dealing with Web and Mobile Programming and improving myself.
+- These days I'm trying something on Swift and Python.😄
+
+I am currently making money from my work as a Freelancer. I read, play and travel for hobby purposes. I am thinking of sharing the works I have / will do here                                                                                                       
+
+###  &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/harundogdu">
@@ -30,3 +38,8 @@
 <a href="mailto:harundogdu06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:harundogdu06@gmail.com">
 </a>
+<a href="https://harundogdu.com.tr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-orange" alt="https://harundogdu.com.tr/">
+</a>
+
+
