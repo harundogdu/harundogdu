@@ -13,7 +13,9 @@
 - I am dealing with Web and Mobile Programming and improving myself.
 - These days I'm trying something on Swift and Python.😄
 
-<p> I am currently making money from my work as a Freelancer. I read, play and travel for hobby purposes. I am thinking of sharing the works I have / will do here    </p>                                                                                                    
+I am currently making money from my work as a Freelancer. <br/>
+I read, play and travel for hobby purposes. <br/>
+I am thinking of sharing the works I have / will do here    <br/>                                                                                               
 
 ###  &nbsp;GitHub Stats
 
