@@ -3,6 +3,7 @@
 ## Hello! I'm Harun. 👋
 
 <br/>
+<img src="https://github.com/harundogdu/harundogdu/blob/main/img/programming.gif?raw=true width="400px"/>
 
 <br/>
 
