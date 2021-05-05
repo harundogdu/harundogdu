@@ -2,21 +2,6 @@
 
 ## Hello! I'm Harun. 👋
 
-<br/>
-
-<img src="https://github.com/harundogdu/harundogdu/blob/main/img/programming.gif?raw=true" width="400px"/>
-                                                                                                       
-<br/>                                                                            
-
-###  &nbsp;GitHub Stats
-
-<p align="center">
-<a href="https://github.com/harundogdu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harundogdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me 🤝
 
 <a href="https://medium.com/@harundogdu" target="_blank">
