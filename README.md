@@ -16,7 +16,7 @@
 <a href="mailto:harundogdu06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:harundogdu06@gmail.com">
 </a>
-<a href="https://harundogdu.com.tr/" target="_blank">
+<a href="https://harundogdu.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-orange" alt="https://harundogdu.com/">
 </a>
 
