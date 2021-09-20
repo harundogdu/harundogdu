@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harundogdu&label=Profile%20views&color=0e75b6&style=flat" alt="harundogdu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harundogdu" alt="harundogdu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/harunndogdu" target="blank"><img src="https://img.shields.io/twitter/follow/harunndogdu?logo=twitter&style=for-the-badge" alt="harunndogdu" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
@@ -25,7 +21,7 @@
 <a href="https://fb.com/harundogduuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harundogduuu" height="30" width="40" /></a>
 <a href="https://instagram.com/harundogduu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harundogduu" height="30" width="40" /></a>
 <a href="https://medium.com/@harundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harundogdu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc7tsevlhdpwzsmur-x9iefg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7tsevlhdpwzsmur-x9iefg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7tSevlHdPwzsMUr-x9IEfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7tsevlhdpwzsmur-x9iefg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harundogdu" height="30" width="40" /></a>
 </p>
 
