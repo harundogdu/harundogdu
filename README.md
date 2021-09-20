@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Larevel, React, Vue**
 
-- 📫 How to reach me **harundogdu@gmail.com**
+- 📫 How to reach me **harundogdu06@gmail.com**
 
 - 📄 Know about my experiences [https://harundogdu.com/](https://harundogdu.com/)
 
