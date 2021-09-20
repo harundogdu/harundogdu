@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harundogdu.com/portfolio](https://harundogdu.com/portfolio)
 
-- 💬 Ask me about **Larevel, React, Vue**
+- 💬 Ask me about **Laravel, React, Vue, React Native**
 
 - 📫 How to reach me **info@harundogdu.com**
 
