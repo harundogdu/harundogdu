@@ -35,12 +35,6 @@
 - 📫 How to reach me **info@harundogdu.com**
 
 - 📄 Know about my experiences [https://harundogdu.com/](https://harundogdu.com/)
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
- 
- <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
 
 <!--  -->
 
