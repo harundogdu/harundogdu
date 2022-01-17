@@ -6,6 +6,8 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
    Harun Doğdu | 💻 Full Stack Developer | 🛸 Ankara , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
+   <a href="https://github.com/harundogdu/">
    <img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" /> 
+   </a>
 </div>
 
