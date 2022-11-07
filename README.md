@@ -14,10 +14,10 @@
    </div>
    <h3 align="center">My Stats:</h3>
 <a href="https://github.com/harundogdu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harundogdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harundogdu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<p align="center" dir="auto"><a href="https://github.com/harundogdu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harundogdu&amp;theme=tokyonight" width="460em" alt="harundogdu" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=harundogdu&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a href="https://github.com/harundogdu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harundogdu&amp;theme=algolia" width="460em" alt="harundogdu" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=harundogdu&amp;theme=algolia" style="max-width: 100%;"></a></p>
    
    ### 🤝🏻 &nbsp;Connect with Me 🤝
 
