@@ -1,16 +1,14 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://harundogdu.dev">Harun</a></h1>
 </div>
-
-
 <div align="center">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
    Harun Doğdu | 💻 Full Stack Developer | 🛸 Ankara , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <div>
-   <a href="https://wakatime.com/@ancyra"><img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" /></a>
-   
+   <a href="https://wakatime.com/@ancyra"><img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" /></a>   
+      
    </div>
    <h3 align="center">My Stats:</h3>
 <a href="https://github.com/harundogdu">
@@ -20,23 +18,15 @@
 <p align="center" dir="auto"><a href="https://github.com/harundogdu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harundogdu&amp;theme=algolia" width="460em" alt="harundogdu" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=harundogdu&amp;theme=algolia" style="max-width: 100%;"></a></p>
    
    ### 🤝🏻 &nbsp;Connect with Me 🤝
-
-<a href="https://medium.com/@harundogdu" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@harundogdu">
-</a>
-<a href="https://www.linkedin.com/in/harundogdu" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/harundogdu">
-</a>
-<a href="https://twitter.com/harunndogdu" target="_blank">
-    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/harundogdu">
-</a>
-<a href="mailto:harundogdu06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:harundogdu06@gmail.com">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harundogdu) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harundogdu) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harunndogdu) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@harunndogdu)
+[![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:harundogdu06@gmail.com)
 <a href="https://harundogdu.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-orange" alt="https://harundogdu.dev/">
 </a>
-   
-   ### 🤝🏻 &nbsp;Support Me 🤝
-<a href="https://www.buymeacoffee.com/harundogdu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harundogdu) 
+</div>
 </div>
